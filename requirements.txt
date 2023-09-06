@@ -1,5 +1,4 @@
 wget==3.2
-re
 os==unknown
 pandas==1.4.4
 numpy==1.21.5
